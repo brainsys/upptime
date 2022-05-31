@@ -25,6 +25,8 @@ status-website:
   introTitle: "Network Status"
   introMessage: from the original british internet company
   navbar:
+    - title: Home
+      href: https://brainsys.com/
     - title: About
       href: https://brainsys.com/brainservers/
     - title: Contact
