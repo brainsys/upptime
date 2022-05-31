@@ -10,7 +10,7 @@ sites:
   - name: BrainServerFour (V4)
     url: https://v4.brainsys.co.uk
   - name: BrainServerSix (V6)
-    url: https://v6.brainsys.co.uk
+    url: http://v6.brainsys.co.uk
   - name: BrainServerSeven (V7)
     url: https://v7.brainsys.co.uk
     
