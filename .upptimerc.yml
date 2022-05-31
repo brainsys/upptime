@@ -5,7 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: BrainServerOne-V1
     url: https://v1.brainsys.co.uk
-  - name: BrainServerThree-V4
+  - name: BrainServerThree-V3
     url: https://v3.brainsys.co.uk
   - name: BrainServerFour-V4
     url: https://v4.brainsys.co.uk
