@@ -19,10 +19,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "Brainstorm Systems Network Status"
-  introMessage: the original british internet company
+  logoUrl: https://brainsys.com/wp-content/uploads/2022/04/logo68.png
+  name: Brainstorm Systems
+  introTitle: "Network Status"
+  introMessage: from the original british internet company
   navbar:
     - title: Status
       href: /
