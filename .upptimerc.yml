@@ -3,15 +3,15 @@ owner: brainsys # Your GitHub organization or username, where this repository li
 repo: upptime # The name of this repository
 
 sites:
-  - name: BrainServerOne (V1)
+  - name: BrainServerOne-V1
     url: https://v1.brainsys.co.uk
-  - name: BrainServerThree (V3)
+  - name: BrainServerThree-V4
     url: https://v3.brainsys.co.uk
-  - name: BrainServerFour (V4)
+  - name: BrainServerFour-V4
     url: https://v4.brainsys.co.uk
-  - name: BrainServerSix (V6)
+  - name: BrainServerSix-V6
     url: http://v6.brainsys.co.uk
-  - name: BrainServerSeven (V7)
+  - name: BrainServerSeven-V7
     url: https://v7.brainsys.co.uk
     
 status-website:
@@ -25,10 +25,10 @@ status-website:
   introTitle: "Network Status"
   introMessage: from the original british internet company
   navbar:
-    - title: Status
-      href: /
     - title: About
-      href: https://brainsys.com/about/
+      href: https://brainsys.com/brainservers/
+    - title: Contact
+      href: https://brainsys.com/contact/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
