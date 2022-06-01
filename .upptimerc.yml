@@ -22,7 +22,7 @@ status-website:
   logoUrl: https://brainsys.com/wp-content/uploads/2022/04/logo68.png
   favicon: https://brainsys.com/wp-content/uploads/2022/03/favicon-32x32-1.png
   name: Brainstorm Systems
-  introTitle: "Network Status"
+  introTitle: "BrainServer Status"
   introMessage: V1, V3 & V4 host client services. V6 is a development server & V7 is an experimental server
   navbar:
     - title: Home
